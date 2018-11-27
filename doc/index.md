@@ -4,4 +4,4 @@
 Ejemplo de integración continúa para
 
 * Esto es una prueba
-* No hay ningún error (de momento)
+* Esto ci hes una prueva con herrores
